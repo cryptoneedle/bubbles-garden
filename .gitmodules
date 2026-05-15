@@ -1,0 +1,3 @@
+[submodule "bubbles-engine"]
+	path = bubbles-engine
+	url = git@github.com:cryptoneedle/bubbles-engine.git
