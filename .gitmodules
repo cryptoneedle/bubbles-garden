@@ -1,6 +1,6 @@
 [submodule "bubbles-engine"]
 	path = bubbles-engine
 	url = git@github.com:cryptoneedle/bubbles-engine.git
-[submodule "bubbles-gateway"]
-	path = bubbles-gateway
-	url = git@github.com:cryptoneedle/bubbles-gateway.git
+[submodule "bubbles-platform"]
+	path = bubbles-platform
+	url = git@github.com:cryptoneedle/bubbles-platform.git
